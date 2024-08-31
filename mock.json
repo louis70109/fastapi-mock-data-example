@@ -1,0 +1,9 @@
+{
+  "read_student": {
+    "_id": 1,
+    "total_member": 5,
+    "rating": 1,
+    "query_list": [{ "a": 1 }, { "b": 2 }]
+  },
+  "read_teacher": { "_id": "qwert", "name": "Word" }
+}
